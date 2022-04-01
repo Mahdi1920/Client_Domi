@@ -1,0 +1,23 @@
+{
+  "ibansysApp": {
+    "produitService": {
+      "home": {
+        "title": "ProduitServices",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Produit Service",
+        "createOrEditLabel": "Créer ou éditer un Produit Service",
+        "notFound": "Aucun Produit Service trouvé"
+      },
+      "created": "Un nouveau Produit Service a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Produit Service avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Produit Service avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Produit Service {{ id }} ?"
+      },
+      "detail": {
+        "title": "Produit Service"
+      },
+      "id": "ID"
+    }
+  }
+}
