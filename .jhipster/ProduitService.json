@@ -1,0 +1,8 @@
+{
+  "fields": [],
+  "relationships": [],
+  "readOnly": false,
+  "pagination": "infinite-scroll",
+  "name": "ProduitService",
+  "changelogDate": "20220316165214"
+}

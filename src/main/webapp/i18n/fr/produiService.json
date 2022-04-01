@@ -1,0 +1,15 @@
+{
+  "ibansysApp": {
+    "produiService": {
+      "home": {
+        "title": "ProduiServices",
+        "refreshListLabel": "Actualiser la liste",
+        "notFound": "Aucun Produi Service trouvé"
+      },
+      "detail": {
+        "title": "Produi Service"
+      },
+      "id": "ID"
+    }
+  }
+}
